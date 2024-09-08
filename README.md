@@ -12,4 +12,4 @@ Welcome to this credit card verification project! This Python script validates c
 
 ## Contact
 - My discord account: oto.dev
-- My discord server: [Click here](https://discord.gg/NUuXqpGxqa).****
+- My discord server: [Click here](https://discord.gg/NUuXqpGxqa).
